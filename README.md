@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Bidhan Chowdhury</h1>
+<h3 align="center">Aspiring Cloud Engineer | Learning Linux, Networking & AWS</h3>
 
-<!--
-**bidhan-cloud/bidhan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇩 From Bangladesh, living in Portugal  
+- 💼 Currently working and transitioning into tech  
+- ☁️ Learning Cloud Computing (AWS)  
+- 🧠 Learning Linux & Networking step by step  
+- 🎯 Goal: Become a Cloud Engineer  
+
+---
+
+## 🛠 Tech Stack (Learning)
+
+- Linux (CLI, commands)  
+- Networking (DNS, TCP/IP basics)  
+- AWS (beginner level)  
+- Git & GitHub  
+
+---
+
+## 📚 Current Focus
+
+- Linux fundamentals  
+- Networking basics  
+- Cloud concepts (AWS)  
+- Building daily learning habit  
+
+---
+
+## Connect With Me
+https://www.linkedin.com/in/bidhan-chowdhury-67014b2a9/
+
+
+---
+
+## My Journey
+
+ Check my progress here:  
+- linux-learning repository
