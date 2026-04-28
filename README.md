@@ -40,4 +40,4 @@ https://www.linkedin.com/in/bidhan-chowdhury-67014b2a9/
 ## My Journey
 
  Check my progress here:  
-- linux-learning repository
+- [Linux Learning Repository](https://github.com/bidhan-cloud/linux-learning)
