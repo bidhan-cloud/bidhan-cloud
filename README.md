@@ -5,7 +5,7 @@
 
 ##  About Me
 
-- 🇧🇩 From Bangladesh, living in Portugal  
+-  From Bangladesh, living in Portugal  
 - 💼 Currently working and transitioning into tech  
 - ☁️ Learning Cloud Computing (AWS)  
 - 🧠 Learning Linux & Networking step by step  
@@ -32,7 +32,7 @@
 ---
 
 ## Connect With Me
-https://www.linkedin.com/in/bidhan-chowdhury-67014b2a9/
+- LinkedIn: https://www.linkedin.com/in/bidhan-chowdhury-67014b2a9/
 
 
 ---
