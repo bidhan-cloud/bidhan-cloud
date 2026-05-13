@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Bidhan Chowdhury</h1>
-<h3 align="center">Aspiring Cloud Engineer | Learning Linux, Networking & AWS</h3>
+<h3 align="center">Aspiring IT & Cloud Professional | Learning Linux, Networking & AWS</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 💼 Currently working and transitioning into tech  
 - ☁️ Learning Cloud Computing (AWS)  
 - 🧠 Learning Linux & Networking step by step  
-- 🎯 Goal: Become a Cloud Engineer  
+- 🎯 Goal: Build real-world IT and cloud skills  
 
 ---
 
@@ -41,3 +41,39 @@
 
  Check my progress here:  
 - [Linux Learning Repository](https://github.com/bidhan-cloud/linux-learning)
+
+
+## 📅 What I Have Learned So Far
+
+### 🐧 Linux Basics
+- Navigating directories:
+  - pwd
+  - ls
+  - cd
+
+- Working with files:
+  - mkdir
+  - touch
+  - cp
+  - mv
+  - rm
+
+- Reading files:
+  - cat
+  - grep
+  - find
+
+- Permissions:
+  - chmod
+  - chown
+
+- Processes:
+  - ps
+  - top
+
+- Filtering:
+- Pipes (|) 
+----
+
+## ✅ Linux Learning Progress
+Completed: Linux fundamentals, file management, permissions, processes, and filtering.  
