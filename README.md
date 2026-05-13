@@ -9,71 +9,22 @@
 - 💼 Currently working and transitioning into tech  
 - ☁️ Learning Cloud Computing (AWS)  
 - 🧠 Learning Linux & Networking step by step  
-- 🎯 Goal: Build real-world IT and cloud skills  
+- 🎯 Goal: Build real-world IT and cloud skills
+---
+
+## 🚀 My Learning Repositories
+
+- 🐧 Linux Learning  
+  https://github.com/bidhan-cloud/linux-learning
+
+- 🌐 Networking Learning  
+  https://github.com/bidhan-cloud/networking-learning
+
+- ☁️ Cloud Learning  
+  https://github.com/bidhan-cloud/cloud-thinking
 
 ---
 
-## 🛠 Tech Stack (Learning)
+## 🎯 Current Mission
 
-- Linux (CLI, commands)  
-- Networking (DNS, TCP/IP basics)  
-- AWS (beginner level)  
-- Git & GitHub  
-
----
-
-## 📚 Current Focus
-
-- Linux fundamentals  
-- Networking basics  
-- Cloud concepts (AWS)  
-- Building daily learning habit  
-
----
-
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/bidhan-chowdhury-67014b2a9/
-
-
----
-
-## My Journey
-
- Check my progress here:  
-- [Linux Learning Repository](https://github.com/bidhan-cloud/linux-learning)
-
-
-## 📅 What I Have Learned So Far
-
-### 🐧 Linux Basics
-- Navigating directories:
-  - pwd
-  - ls
-  - cd
-
-- Working with files:
-  - mkdir
-  - touch
-  - cp
-  - mv
-  - rm
-
-- Reading files:
-  - cat
-  - grep
-  - find
-
-- Permissions:
-  - chmod
-  - chown
-
-- Processes:
-  - ps
-  - top
-
-- Filtering:
-- Pipes (|) 
-----
-
-## ✅ Linux Learning Progress
-Completed: Linux fundamentals, file management, permissions, processes, and filtering.  
+Building real-world IT and cloud skills step by step while transitioning into tech.
